@@ -1,2 +1,2 @@
-﻿Console.WritLine("Hello .NET");
-Console.WritLine("Learning Git Brnching");
+﻿Console.WritLine("Welcome to .NET");
+Console.WritLine("This is my first pull request");
